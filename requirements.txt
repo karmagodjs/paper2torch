@@ -1,0 +1,5 @@
+google-generativeai
+pymupdf
+click
+rich
+python-dotenv

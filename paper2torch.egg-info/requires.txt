@@ -1,0 +1,5 @@
+groq
+pymupdf
+click
+rich
+python-dotenv

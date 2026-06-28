@@ -1,0 +1,2 @@
+[console_scripts]
+paper2torch = paper2torch.cli:main

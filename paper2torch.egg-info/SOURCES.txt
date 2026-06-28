@@ -1,0 +1,14 @@
+README.md
+setup.py
+paper2torch/__init__.py
+paper2torch/cli.py
+paper2torch/extractor.py
+paper2torch/generator.py
+paper2torch/parser.py
+paper2torch/validator.py
+paper2torch.egg-info/PKG-INFO
+paper2torch.egg-info/SOURCES.txt
+paper2torch.egg-info/dependency_links.txt
+paper2torch.egg-info/entry_points.txt
+paper2torch.egg-info/requires.txt
+paper2torch.egg-info/top_level.txt

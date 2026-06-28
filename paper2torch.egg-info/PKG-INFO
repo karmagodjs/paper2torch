@@ -1,0 +1,26 @@
+Metadata-Version: 2.4
+Name: paper2torch
+Version: 0.1.0
+Summary: Convert research papers to PyTorch code using LLMs
+Home-page: https://github.com/karmagodjs/paper2torch
+Author: Dhruv Kumar
+Author-email: rafftarsingh7982@gmail.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Topic :: Scientific/Engineering :: Artificial Intelligence
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+Requires-Dist: groq
+Requires-Dist: pymupdf
+Requires-Dist: click
+Requires-Dist: rich
+Requires-Dist: python-dotenv
+Dynamic: author
+Dynamic: author-email
+Dynamic: classifier
+Dynamic: description-content-type
+Dynamic: home-page
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
