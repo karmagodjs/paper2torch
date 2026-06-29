@@ -1,4 +1,4 @@
-# paper2torch 🔬➡️⚡
+# paper2torch
 
 Convert any research paper (PDF) into runnable PyTorch code using LLMs.
 
