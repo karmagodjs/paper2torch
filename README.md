@@ -64,8 +64,8 @@ Output: Complete Transformer implementation in PyTorch.
 | Paper | Status |
 |-------|--------|
 | Attention is All You Need | ✅ |
-| ResNet | 🔜 |
-| BERT | 🔜 |
+| ResNet | ✅ |
+| BERT | ✅ |
 
 ## Stack
 
